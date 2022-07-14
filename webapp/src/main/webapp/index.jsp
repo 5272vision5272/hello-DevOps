@@ -9,6 +9,10 @@
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
+	<label for="Name"><b>DOB</b></label>
+    <input type="text" placeholder="Enter Date of Birth" name="dob" id="dob" required>
+    <br>
+	
     <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
