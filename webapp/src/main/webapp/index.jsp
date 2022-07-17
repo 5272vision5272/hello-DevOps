@@ -5,7 +5,7 @@
 	<p>Hi ALL ITS MY FIRST DEVOPS PROJECT WE ARE UPDATED IT ON 14.07.22</p>
     <hr>
      
-    <label for="Name"><b>Enter Name</b></label>
+    <label for="Name"><b>Enter your full nameName</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
